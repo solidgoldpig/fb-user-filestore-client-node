@@ -1,6 +1,6 @@
 {
   "name": "@solidgoldpig/fb-user-filestore-client-node",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "description": "Form Builder User File Store Client (Node)",
   "main": "lib/fb-user-filestore-client.js",
   "repository": {
@@ -26,6 +26,6 @@
     "tape": "^4.10.2"
   },
   "dependencies": {
-    "@solidgoldpig/fb-jwt-client-node": "0.0.28"
+    "@solidgoldpig/fb-jwt-client-node": "0.0.29"
   }
 }
